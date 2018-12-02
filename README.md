@@ -1,6 +1,6 @@
 # Nuvoton-NUC140
 
-## Core
+### Core
 
   Cortex™-M0 processor
   
@@ -10,7 +10,7 @@
   
   Max frequency of 72 MHz
 
-# Memory
+## Memory
 
 128 KB of flash memory
 16 KB of SRAM
