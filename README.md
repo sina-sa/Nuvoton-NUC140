@@ -3,8 +3,11 @@
 Core
 
   Cortex™-M0 processor
+  
   Wide operating voltage (2.5V ~ 5.5V)
+  
   Industrial temperature (-40℃ ~ 105℃)
+  
   Max frequency of 72 MHz
 
 # Memory
