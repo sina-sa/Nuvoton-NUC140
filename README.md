@@ -1,15 +1,18 @@
 # Nuvoton-NUC140
+
 Core
 
-Cortex™-M0 processor
-Wide operating voltage (2.5V ~ 5.5V)
-Industrial temperature (-40℃ ~ 105℃)
-Max frequency of 72 MHz
-Memory
+  Cortex™-M0 processor
+  Wide operating voltage (2.5V ~ 5.5V)
+  Industrial temperature (-40℃ ~ 105℃)
+  Max frequency of 72 MHz
+
+# Memory
 
 128 KB of flash memory
 16 KB of SRAM
 4 KB of Data Flash
+
 ADC
 
 Up to 8 channels
